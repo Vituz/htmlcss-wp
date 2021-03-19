@@ -122,6 +122,11 @@
     margin-bottom: 20px;
 }
 
+.center_img{
+    background-image: url("../img/banner-2.jpg");
+    height: 300px;
+}
+
 .left_side{
     background-image: url("../img/img-1.jpg");
     height: 300px;
@@ -142,8 +147,7 @@
 
 .center{
     width: 47%;
-    height: 400px;
-    background-color: greenyellow;
+    height: auto;
     float: left;
     margin: 0 2.5%;
 }
